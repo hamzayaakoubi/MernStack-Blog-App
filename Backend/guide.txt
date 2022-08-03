@@ -1,0 +1,5 @@
+*tape npm init 
+*tape npm i nodemon and in package.json inside scripts we create a new variable named start :
+"start": "nodemon --experimental-modules --es-module-specifier-resolution=node app.js",
+*tape npm i express
+then we create our database with mongodb cloud and we copie the link to put inside our application
